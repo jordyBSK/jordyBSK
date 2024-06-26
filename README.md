@@ -1,4 +1,4 @@
-<h3 align="center"> 💻 Working and Studying on </h3>
+<h1 align="center"> 💻 Working and Studying on </h3>
 <p align="center">  
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
      </a>
